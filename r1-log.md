@@ -15,3 +15,8 @@ This seems an appropriate place to state some goals and reasoning behind joining
 
 ### R1D2
 Worked through the redux tutorial on free code camp in the morning.  Continued this at night.  Also added a new video to my wife's website and made a mock-up of the drum-machine project for free code camp.
+
+### R1D3
+I got up early and started my drum machine app on codepen.  I'm thinking I'll use a map function to create the pads.  In the afternoon I reworked a checkio algorithm: [navigation.js](https://github.com/ozmos/javascript-algorithms/blob/master/checkio/escher/navigation.js) based on someone's recommendation.  Discovered a new javaScript maths function: `Math.abs` which can be used to get the difference between 2 integers, previously I had made my own function to do this simple operation.
+
+Tried out a new git command: `git stash` which didn't go so well.  I'll need to do a proper git tutorial at some point to learn the more intricate workings of git.
