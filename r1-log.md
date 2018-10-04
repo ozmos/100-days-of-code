@@ -20,3 +20,6 @@ Worked through the redux tutorial on free code camp in the morning.  Continued t
 I got up early and started my drum machine app on codepen.  I'm thinking I'll use a map function to create the pads.  In the afternoon I reworked a checkio algorithm: [navigation.js](https://github.com/ozmos/javascript-algorithms/blob/master/checkio/escher/navigation.js) based on someone's recommendation.  Discovered a new javaScript maths function: `Math.abs` which can be used to get the difference between 2 integers, previously I had made my own function to do this simple operation.
 
 Tried out a new git command: `git stash` which didn't go so well.  I'll need to do a proper git tutorial at some point to learn the more intricate workings of git.
+
+### R1D4
+Tried working on my drum machine on codepen.  I managed to render the keys based on a mapped array but got very stuck and frustrated trying to find a website to load sounds off directly.  Ended up posting for help on the fcc forum.  Really didn't get much coding done at all, just googling around.  Really hope someone points me in the right direction on fcc.  Pretty angry right now.
