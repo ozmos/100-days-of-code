@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Osamu Morozumi]
+# #100DaysOfCode Log - Round 1 - Osamu Morozumi
 
 The log of my #100DaysOfCode challenge. Started on [October 1, Monday 2018].
 
@@ -26,3 +26,6 @@ Tried working on my drum machine on codepen.  I managed to render the keys based
 
 ### R1D5
 Today I got a bit side tracked and thought I'd give codewars a whirl.  I used to think I was pretty good at solving algorithms but then I got stuck on a 6th kyu algo.  Just couldn't think of a way to preserve the white space! I think I know the answer now.  I'll use a replace function that replaces any whitespace character **After** any other whitespace character with an empty string.  Anyway I feel a bit guilty because I'd have better spent my time working on my drum machine. 
+
+### R1D6
+Got up early and solved the codewars algorithm.  Can't remember how I did it now.  I now have a partially working drum machine.  It updates state, displays the right message and plays audio if the mouse is clicked in the right place.  I just need to add the keypress event listener.  I have a feeling this will be challenging.  I originally had the onclick button manipulating the DOM directly instead of using state to play the right audio.  I've changed it now to follow correct React practices.
