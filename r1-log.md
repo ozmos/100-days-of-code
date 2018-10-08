@@ -34,3 +34,6 @@ Got up early and solved the codewars algorithm.  Can't remember how I did it now
 **One week in!!!** Today worked on my drum machine.  It now has keypress functionality, however it is failing 1 of 7 performance tests.  I will put it on the forum and see if I get any  useful suggestions. I had some trouble separating the `playAudio` from the `handleClick` and `handleKeyPress` methods.  Mostly because I forgot to use the `this` keyword!!
 
 I also edited my portfolio page.  I noticed that the animations are not performing well on the hosted page.  Is this because of a lack of caching?? It definitely performs better as a static page.  Will have to look into this.
+
+### R1D8
+This morning started a coding puzzle for codewars.  This one is pretty tricky.  It asks you to join a string which has been broken up at uneven parts.  I have the function working for a one line string.  I now need to make it work for multiple lines.  I also applied for a couple of developer positions in Perth.
