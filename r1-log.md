@@ -37,3 +37,6 @@ I also edited my portfolio page.  I noticed that the animations are not performi
 
 ### R1D8
 This morning started a coding puzzle for codewars.  This one is pretty tricky.  It asks you to join a string which has been broken up at uneven parts.  I have the function working for a one line string.  I now need to make it work for multiple lines.  I also applied for a couple of developer positions in Perth.
+
+### R1D9
+Continued working on the fullScan (hand held scanner) algorithm I started on yesterday.  Getting it to work with multiple lines was not as easy I thought it would be.  I need more practice working with nested arrays.  One thing that got me stuck was the ternary operator in my regex function.  The order of operations is just as important in logic as it is in arithmetic!!
