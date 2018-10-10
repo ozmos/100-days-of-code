@@ -40,3 +40,6 @@ This morning started a coding puzzle for codewars.  This one is pretty tricky.  
 
 ### R1D9
 Continued working on the fullScan (hand held scanner) algorithm I started on yesterday.  Getting it to work with multiple lines was not as easy I thought it would be.  I need more practice working with nested arrays.  One thing that got me stuck was the ternary operator in my regex function.  The order of operations is just as important in logic as it is in arithmetic!!
+
+### R1D10
+Continued work on drum machine project.  Having difficulty targeting the child component for id.  Will keep trying.
