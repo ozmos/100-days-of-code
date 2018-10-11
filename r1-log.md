@@ -43,3 +43,7 @@ Continued working on the fullScan (hand held scanner) algorithm I started on yes
 
 ### R1D10
 Continued work on drum machine project.  Having difficulty targeting the child component for id.  Will keep trying.
+
+### R1D11
+Still trying to get drum machine to pass performance tests.
+
