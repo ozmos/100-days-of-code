@@ -47,3 +47,8 @@ Continued work on drum machine project.  Having difficulty targeting the child c
 ### R1D11
 Still trying to get drum machine to pass performance tests.
 
+### R1D12
+**Finally got the drum machine to pass performance tests!!!** I need to learn about propagation and bubbling in regard to DOM event listeners.  It seems because I hadn't initialized the event listener with a second argument of false to prevent default behaviour, there were `keydown` event listeners in all components! I think that's how it works.  Anyway, now I need to make a drum machine in a local development environment.  I also did a codewars algorithm today called 'Persistent bugger'.  I used recursion for this one and learned how to implement a count in recursive functions.  It took less than 25mins to complete!
+
+### R1D13
+Today went over some of the redux tutorial in **Freecodecamp**.  I want to incorporate this technology when I rebuild my drum machine with `create-react-app`.  Also did some **Enki** exercises this morning in the physio office.
