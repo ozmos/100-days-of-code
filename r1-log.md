@@ -52,3 +52,6 @@ Still trying to get drum machine to pass performance tests.
 
 ### R1D13
 Today went over some of the redux tutorial in **Freecodecamp**.  I want to incorporate this technology when I rebuild my drum machine with `create-react-app`.  Also did some **Enki** exercises this morning in the physio office.
+
+### R1D14
+Finished the redux tutorial on free code camp taking notes.  Also went through a nice beginners tutorial on youtube to reinforce the basic concepts.  Tutorial on [https://youtu.be/wZVzeob4ywc](https://youtu.be/wZVzeob4ywc).
