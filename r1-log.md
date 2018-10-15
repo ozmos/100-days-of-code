@@ -55,3 +55,6 @@ Today went over some of the redux tutorial in **Freecodecamp**.  I want to incor
 
 ### R1D14
 Finished the redux tutorial on free code camp taking notes.  Also went through a nice beginners tutorial on youtube to reinforce the basic concepts.  Tutorial on [https://youtu.be/wZVzeob4ywc](https://youtu.be/wZVzeob4ywc).
+
+### R1D15
+Started the React Redux tutorial on free code camp.  I'm glad I build my first two apps as React only so I could familiarise myself with the React development process.  Redux adds yet another layer of complexity which is probably only necessary to employ for apps with complex state.
