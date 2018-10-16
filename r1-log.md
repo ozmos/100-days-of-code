@@ -58,3 +58,6 @@ Finished the redux tutorial on free code camp taking notes.  Also went through a
 
 ### R1D15
 Started the React Redux tutorial on free code camp.  I'm glad I build my first two apps as React only so I could familiarise myself with the React development process.  Redux adds yet another layer of complexity which is probably only necessary to employ for apps with complex state.
+
+### R1D16
+This morning I did an easy algorithm on codewars and started a more difficult one.  In the afternoon I finished the React/Redux tutorial on FreeCodeCamp.
