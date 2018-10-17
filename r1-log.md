@@ -61,3 +61,6 @@ Started the React Redux tutorial on free code camp.  I'm glad I build my first t
 
 ### R1D16
 This morning I did an easy algorithm on codewars and started a more difficult one.  In the afternoon I finished the React/Redux tutorial on FreeCodeCamp.
+
+### R1D17
+Today I did the advanced pig latin algorithm on codewars.  I've done an algorithm like this one for freeCodeCamp a while ago but I did it quite differently if I remember.  I need to brush up on my vim skills again.  
