@@ -64,3 +64,6 @@ This morning I did an easy algorithm on codewars and started a more difficult on
 
 ### R1D17
 Today I did the advanced pig latin algorithm on codewars.  I've done an algorithm like this one for freeCodeCamp a while ago but I did it quite differently if I remember.  I need to brush up on my vim skills again.  
+
+### R1D18
+Today going through another `react-redux` tutorial on youtube.  Taking a little while as I'm coding along and taking notes.  It is useful as he shows how to set up the file structure and what modules to import.
