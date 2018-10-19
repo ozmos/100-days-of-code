@@ -67,3 +67,6 @@ Today I did the advanced pig latin algorithm on codewars.  I've done an algorith
 
 ### R1D18
 Today going through another `react-redux` tutorial on youtube.  Taking a little while as I'm coding along and taking notes.  It is useful as he shows how to set up the file structure and what modules to import.
+
+### R1D19
+Worked through a bit more of the `react-redux` tutorial this morning.  In the evening too tired after nearly 13 hours of hard labor so started another codewars algo.
