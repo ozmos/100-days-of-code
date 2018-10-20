@@ -70,3 +70,8 @@ Today going through another `react-redux` tutorial on youtube.  Taking a little 
 
 ### R1D19
 Worked through a bit more of the `react-redux` tutorial this morning.  In the evening too tired after nearly 13 hours of hard labor so started another codewars algo.
+
+### R1D20
+I attended our monthly free code camp meetup today.  I always value these meetings as I get the opportunity to discuss programming and web technology with like minded people from diverse backgrounds.  Today there were some new faces which is encouraging. There is talk of building a website for the local group together which is exciting.  
+
+In the evening I finished part 3 of the `react-redux` tutorial and started work on rebuilding my drum-machine in the local environment.
