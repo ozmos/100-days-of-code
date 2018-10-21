@@ -75,3 +75,6 @@ Worked through a bit more of the `react-redux` tutorial this morning.  In the ev
 I attended our monthly free code camp meetup today.  I always value these meetings as I get the opportunity to discuss programming and web technology with like minded people from diverse backgrounds.  Today there were some new faces which is encouraging. There is talk of building a website for the local group together which is exciting.  
 
 In the evening I finished part 3 of the `react-redux` tutorial and started work on rebuilding my drum-machine in the local environment.
+
+### R1D21
+Today I worked on rebuilding my React drum machine with `create-react-app`.  It plays drum sounds now with both mouse clicks and the keyboard.  The next step is to build the display panel and have it display a description of each sound as it plays.  I also did a little bit of work on a new codewars algorithm: hex converter.  
