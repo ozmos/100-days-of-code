@@ -78,3 +78,6 @@ In the evening I finished part 3 of the `react-redux` tutorial and started work 
 
 ### R1D21
 Today I worked on rebuilding my React drum machine with `create-react-app`.  It plays drum sounds now with both mouse clicks and the keyboard.  The next step is to build the display panel and have it display a description of each sound as it plays.  I also did a little bit of work on a new codewars algorithm: hex converter.  
+
+### R1D22
+This morning I completed the *RGB to hex* challenge on codewars.  It used fairly simple maths and a bit of tricky logic.  In the afternoon I continued work on my drum-machine.  I am now at the point where I need to move the state and methods into the redux store.  It is proving a bit difficult.
