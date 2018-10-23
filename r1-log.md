@@ -81,3 +81,6 @@ Today I worked on rebuilding my React drum machine with `create-react-app`.  It 
 
 ### R1D22
 This morning I completed the *RGB to hex* challenge on codewars.  It used fairly simple maths and a bit of tricky logic.  In the afternoon I continued work on my drum-machine.  I am now at the point where I need to move the state and methods into the redux store.  It is proving a bit difficult.
+
+### R1D23
+This morning I wrestled with `mapDispatchToProps` in my react-redux drumkit.  I found the problem this evening and it was all due to a missing closing `}`. At least `mapStateToProps` is working and the UI displays the default message.  Now I need to get the message to update on clicking.  
