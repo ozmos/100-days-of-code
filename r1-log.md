@@ -84,3 +84,6 @@ This morning I completed the *RGB to hex* challenge on codewars.  It used fairly
 
 ### R1D23
 This morning I wrestled with `mapDispatchToProps` in my react-redux drumkit.  I found the problem this evening and it was all due to a missing closing `}`. At least `mapStateToProps` is working and the UI displays the default message.  Now I need to get the message to update on clicking.  
+
+### R1D24
+Today I got a working drum-machine with `react-redux`.  It updates the display on both click and keyboard events.  I mapped the keys and sound clips together as an object (using a for loop not `map`) and used that to access the message on the keyboard events.  I also passed that object down as props then extracted the arrays separately so they could be mapped to each component. I feel like I had a good coding day with some victories. 
