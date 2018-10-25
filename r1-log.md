@@ -87,3 +87,7 @@ This morning I wrestled with `mapDispatchToProps` in my react-redux drumkit.  I 
 
 ### R1D24
 Today I got a working drum-machine with `react-redux`.  It updates the display on both click and keyboard events.  I mapped the keys and sound clips together as an object (using a for loop not `map`) and used that to access the message on the keyboard events.  I also passed that object down as props then extracted the arrays separately so they could be mapped to each component. I feel like I had a good coding day with some victories. 
+
+### R1D25
+Today I got beaten by a regex algorithm on codewars.  I can pass 17 out of 18 tests.  The problem is it doesn't supply the test that I'm failing so I have no idea what to test for.  Going to put this one aside for a while.  It may come to me later.
+
