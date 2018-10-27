@@ -93,3 +93,6 @@ Today I got beaten by a regex algorithm on codewars.  I can pass 17 out of 18 te
 
 ### R1D26
 This morning I continued work on my drum machine.  I've imported a new kit and now have to create a function to switch to it.  In the afternoon I passed the regex algorithm I was stuck on yesterday.  This was after some encouragement from fellow coders on twitter.  The power of the internet.
+
+### R1D27
+I have a partially working toggle button to change kits.  Now need to modify it so it actually toggles.
