@@ -96,3 +96,7 @@ This morning I continued work on my drum machine.  I've imported a new kit and n
 
 ### R1D27
 I have a partially working toggle button to change kits.  Now need to modify it so it actually toggles.
+ 
+### R1D28
+
+I got a bit distracted today playing a new mobile game.  I did manage to fix the toggle button and add 2 more sound banks.  I also started styling the app.  I think I'll need to use `CSS` files instead of inline code so i can target id's.
