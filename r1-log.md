@@ -104,3 +104,7 @@ I got a bit distracted today playing a new mobile game.  I did manage to fix the
 ### R1D29
 
 This morning read a bit about CSS modules.  I decided to style my drum machine with plain css. I figure one new technology per app is enough.  This evening started styling the app.  I noticed that using plain css the styles are global so I'll need to be a bit careful with className delegation.
+
+### R1D30
+Today I continued styling my drum machine.  I introduced four color schemes which change when a new drum kit is toggled.  Also read a bit about the fetch API.
+
