@@ -108,3 +108,6 @@ This morning read a bit about CSS modules.  I decided to style my drum machine w
 ### R1D30
 Today I continued styling my drum machine.  I introduced four color schemes which change when a new drum kit is toggled.  Also read a bit about the fetch API.
 
+### R1D31
+This morning I continued styling my drum machine. In the evening attempted a codewars algorithm.  Got close but needs more work.
+
