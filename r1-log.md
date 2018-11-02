@@ -114,3 +114,6 @@ This morning I continued styling my drum machine. In the evening attempted a cod
 ### R1D32
 I had to work in the evening so I only got half an hour in this morning.  I finished the codewars algo I was doing yesterday and did a little bit of styling on my drum machine.
 
+### R1D33
+This morning I continued styling my drum machine.  This evening started a codewars algorithm.  This one is a cracker.
+
