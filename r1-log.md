@@ -117,3 +117,9 @@ I had to work in the evening so I only got half an hour in this morning.  I fini
 ### R1D33
 This morning I continued styling my drum machine.  This evening started a codewars algorithm.  This one is a cracker.
 
+###R1D34
+Today I got the drum machine to a point where I could deploy a production build.  It's still a draft but I have achieved the main functionalities I wanted including:
+-multiple drum kits
+-changing color and font schemes
+
+I also completed the _codewars_ challenge I started last night.  I was close, just needed to tweak it a bit.
