@@ -126,3 +126,6 @@ I also completed the _codewars_ challenge I started last night.  I was close, ju
 
 ###R1D35
 I fixed up some style bugs in my drum machine and started work on the calculator.  I now have a basic view of the calculator and a function to evaluate the string mathematically.
+
+###R1D36
+I continued work on my calculator.  It should be passing 13 of the tests now.  Just need to add a few more features to get it passing all tests.  
