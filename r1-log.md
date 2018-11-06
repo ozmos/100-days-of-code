@@ -129,3 +129,6 @@ I fixed up some style bugs in my drum machine and started work on the calculator
 
 ###R1D36
 I continued work on my calculator.  It should be passing 13 of the tests now.  Just need to add a few more features to get it passing all tests.  
+
+###R1D37
+My calculator now passes all tests!!  I styled it quickly and handed it in. ** One more front end project to go!!!**
