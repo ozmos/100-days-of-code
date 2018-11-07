@@ -132,3 +132,6 @@ I continued work on my calculator.  It should be passing 13 of the tests now.  J
 
 ###R1D37
 My calculator now passes all tests!!  I styled it quickly and handed it in. ** One more front end project to go!!!**
+
+###R1D38
+I started work on the pomodoro clock today.  I had to google around a bit to see how to use the set interval method as I'm pretty unfamiliar with it.  I found a simple count down function which I should be able to adapt for my own use.  Moving it to react should be fun.
