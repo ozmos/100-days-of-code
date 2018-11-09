@@ -138,3 +138,6 @@ I started work on the pomodoro clock today.  I had to google around a bit to see
 
 ###R1D39
 Not much to report today.  Kept working on my pomodoro, following a tutorial to set up a basic countdown timer.
+
+###R1D40
+Still struggling with the pomodoro timer.
