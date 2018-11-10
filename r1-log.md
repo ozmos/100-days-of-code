@@ -141,3 +141,6 @@ Not much to report today.  Kept working on my pomodoro, following a tutorial to 
 
 ###R1D40
 Still struggling with the pomodoro timer.
+
+###R1D40
+Had a small breakthrough with the pomodoro timer this morning.  Attended the monthly meetup which was enjoyable.  While there compared algorithms and made some small modifications to my roman numeral converter.  Scaffolded my pomodoro project with `create-react-app`.  Now off to bed.
