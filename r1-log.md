@@ -147,3 +147,11 @@ Had a small breakthrough with the pomodoro timer this morning.  Attended the mon
 
 ###R1D42
 This morning I did a codewars algorithm to wrap all odd numbered digits in dashes.  I also worked on my pomodoro project and now have the basic user interface without interactive elements.
+
+###R1D43
+Continued work on pomodoro timer.  Introduced most basic timer functionality. 
+###Still to do for this project:
+    -enable pause functionality
+    -break to start automatically when session finishes
+    -adjust session and break lengths with button clicks
+    -sound to indicate end of session and break
