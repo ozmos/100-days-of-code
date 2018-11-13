@@ -150,8 +150,12 @@ This morning I did a codewars algorithm to wrap all odd numbered digits in dashe
 
 ###R1D43
 Continued work on pomodoro timer.  Introduced most basic timer functionality. 
-###Still to do for this project:
+####Still to do for this project:
     -enable pause functionality
     -break to start automatically when session finishes
     -adjust session and break lengths with button clicks
     -sound to indicate end of session and break
+
+###R1D44
+Continued work on pomodoro timer.  Now have working pause and reset button.  Still need to have break start automatically.
+
