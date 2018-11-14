@@ -159,3 +159,5 @@ Continued work on pomodoro timer.  Introduced most basic timer functionality.
 ###R1D44
 Continued work on pomodoro timer.  Now have working pause and reset button.  Still need to have break start automatically.
 
+###R1D45
+Still working on pomodoro timer.  I think I need to change the basic count down function as there are sometimes lapses and it fails the performance tests set by FCC.
