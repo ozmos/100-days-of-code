@@ -161,3 +161,6 @@ Continued work on pomodoro timer.  Now have working pause and reset button.  Sti
 
 ###R1D45
 Still working on pomodoro timer.  I think I need to change the basic count down function as there are sometimes lapses and it fails the performance tests set by FCC.
+
+###R1D46
+This morning kept working on pomodoro timer, added functions to adjust session and break time.  In the evening started a codewars algorithm.
