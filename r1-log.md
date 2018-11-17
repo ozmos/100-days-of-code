@@ -164,3 +164,9 @@ Still working on pomodoro timer.  I think I need to change the basic count down 
 
 ###R1D46
 This morning kept working on pomodoro timer, added functions to adjust session and break time.  In the evening started a codewars algorithm.
+
+###R1D47
+Just did a couple of codewars puzzles.
+
+###R1D48
+Followed along a tutorial for a React pomodoro.  Have picked up some useful tips.  Will incorporate `moment.js`.  Also picking up some new syntax and development patterns.
