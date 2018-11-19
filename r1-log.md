@@ -173,3 +173,6 @@ Followed along a tutorial for a React pomodoro.  Have picked up some useful tips
 
 ###R1D49
 I finished the tutorial on the React Pomodoro.  Based on this I introduced `moment.js` which provides a saner way to count time.  Counting down using the simpler method of simply subtracting 1 from the current time every second renders a smoother countdown than the method I was using previously which calculated the difference between the current time and a set time in the future. There is still a delay of one second or so between when the start button is pressed and when the timer starts.  I may need to read more tutorials to see how to fix this.
+
+###R1D50
+This morning I kept working on my pomodoro timer, refactoring some of the functions.  In the evening started a codewars algorithm.
