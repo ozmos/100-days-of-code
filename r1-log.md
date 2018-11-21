@@ -176,3 +176,9 @@ I finished the tutorial on the React Pomodoro.  Based on this I introduced `mome
 
 ###R1D50
 This morning I kept working on my pomodoro timer, refactoring some of the functions.  In the evening started a codewars algorithm.
+
+###R1D51
+Just did some codewars and enki.
+
+###R1D52
+More codewars.
