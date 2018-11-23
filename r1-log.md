@@ -182,3 +182,9 @@ Just did some codewars and enki.
 
 ###R1D52
 More codewars.
+
+###R1D53
+Codewars and medium
+
+###R1D54
+Just put in a half hour. Codewars and a bit of medium.
