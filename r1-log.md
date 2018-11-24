@@ -188,3 +188,6 @@ Codewars and medium
 
 ###R1D54
 Just put in a half hour. Codewars and a bit of medium.
+
+###R1D55
+Finally continued work on pomodoro.  I need to move the handle click methods into each component as my one stateful component is getting very bloated and hard to read.  Also did a bit of codewars.  Now that I've leveled up to 5th kyu the puzzles are getting really hard.
