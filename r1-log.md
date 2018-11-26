@@ -194,3 +194,6 @@ Finally continued work on pomodoro.  I need to move the handle click methods int
 
 ###R1D56
 Today updated my portfolio and did some php on sololearn.
+
+###R1D57
+I worked on my pomodoro clock today, fixing some of the functionality and refactoring some of the code to unclutter the top level component.  Feels good to be working on the project again.
