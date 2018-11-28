@@ -197,3 +197,9 @@ Today updated my portfolio and did some php on sololearn.
 
 ###R1D57
 I worked on my pomodoro clock today, fixing some of the functionality and refactoring some of the code to unclutter the top level component.  Feels good to be working on the project again.
+
+###R1D58
+Kept working on my pomodoro clock and reading medium.
+
+###R1D59
+More pomodoro.  Having trouble with `moment-duration-format`.
