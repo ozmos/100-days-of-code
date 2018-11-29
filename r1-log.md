@@ -203,3 +203,6 @@ Kept working on my pomodoro clock and reading medium.
 
 ###R1D59
 More pomodoro.  Having trouble with `moment-duration-format`.
+
+###R1D60
+Today kept working on the pomodoro timer.  I successfully integrated `moment-duration-format` and altered the increment/decrement functions.  I basically have it working, just need to add the audio bit.
