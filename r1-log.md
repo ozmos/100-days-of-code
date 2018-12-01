@@ -206,3 +206,9 @@ More pomodoro.  Having trouble with `moment-duration-format`.
 
 ###R1D60
 Today kept working on the pomodoro timer.  I successfully integrated `moment-duration-format` and altered the increment/decrement functions.  I basically have it working, just need to add the audio bit.
+
+###R1D61
+I continued work on pomodoro, getting all tests except for audio to work and also did some sololearn php and read some more of the javascript handbook.
+
+###R1D62
+Wrestled a bit with the html5 `audio` element.  I discovered that audio files must be imported into the component file.  Now need to create the function to make the audio play when the timer is complete.
