@@ -212,3 +212,6 @@ I continued work on pomodoro, getting all tests except for audio to work and als
 
 ###R1D62
 Wrestled a bit with the html5 `audio` element.  I discovered that audio files must be imported into the component file.  Now need to create the function to make the audio play when the timer is complete.
+
+###R1D63
+Finished coding my pomodoro!! All styled but something went wrong with the deployment.
