@@ -215,3 +215,7 @@ Wrestled a bit with the html5 `audio` element.  I discovered that audio files mu
 
 ###R1D63
 Finished coding my pomodoro!! All styled but something went wrong with the deployment.
+
+###R1D64
+Tried various things to get the production build to work.  I have a feeling it has something to do with momentjs.
+
