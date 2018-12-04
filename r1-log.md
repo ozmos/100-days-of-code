@@ -210,7 +210,7 @@ Today kept working on the pomodoro timer.  I successfully integrated `moment-dur
 ###R1D61
 I continued work on pomodoro, getting all tests except for audio to work and also did some sololearn php and read some more of the javascript handbook.
 
-###R1D62
+###R1D62h
 Wrestled a bit with the html5 `audio` element.  I discovered that audio files must be imported into the component file.  Now need to create the function to make the audio play when the timer is complete.
 
 ###R1D63
@@ -219,3 +219,5 @@ Finished coding my pomodoro!! All styled but something went wrong with the deplo
 ###R1D64
 Tried various things to get the production build to work.  I have a feeling it has something to do with momentjs.
 
+###R1D65t
+I posted a help query on FCC forum last night and low and behold this morning there was a helpful reply! Turns out the problem was one line in my `package.json` file.  I had given the incorrect address for the homepage.  So now my pomodoro has been deployed!!  I fixed a niggling bug this afternoon and claimed my front-end libraries certificate.  This is a milestone for me in my codeing journey.  I would like to go deeper into javaScript and React although I would also like to start getting paid as a developer!!  I will learn how to use wordpress and php, with the goal in mind to return to javascript and react and possibly other frameworks.  Today I found a cool `nodejs` based CMS called **apostropheCMS**.  Will keep this CMS in mind for future reference.
