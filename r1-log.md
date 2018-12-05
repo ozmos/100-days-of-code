@@ -219,5 +219,8 @@ Finished coding my pomodoro!! All styled but something went wrong with the deplo
 ###R1D64
 Tried various things to get the production build to work.  I have a feeling it has something to do with momentjs.
 
-###R1D65t
+###R1D65
 I posted a help query on FCC forum last night and low and behold this morning there was a helpful reply! Turns out the problem was one line in my `package.json` file.  I had given the incorrect address for the homepage.  So now my pomodoro has been deployed!!  I fixed a niggling bug this afternoon and claimed my front-end libraries certificate.  This is a milestone for me in my codeing journey.  I would like to go deeper into javaScript and React although I would also like to start getting paid as a developer!!  I will learn how to use wordpress and php, with the goal in mind to return to javascript and react and possibly other frameworks.  Today I found a cool `nodejs` based CMS called **apostropheCMS**.  Will keep this CMS in mind for future reference.
+
+###R1D66
+I decided to make some improvements to existing `Reactjs` projects, starting with the calculator.  I refactored the components, separating them into different files. I also added some extra functionality.  Currently trying to add a square root function.  I realised there is a lot of duplicate code which I will refactor later.
