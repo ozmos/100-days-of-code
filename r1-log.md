@@ -210,7 +210,7 @@ Today kept working on the pomodoro timer.  I successfully integrated `moment-dur
 ###R1D61
 I continued work on pomodoro, getting all tests except for audio to work and also did some sololearn php and read some more of the javascript handbook.
 
-###R1D62h
+###R1D62
 Wrestled a bit with the html5 `audio` element.  I discovered that audio files must be imported into the component file.  Now need to create the function to make the audio play when the timer is complete.
 
 ###R1D63
@@ -224,3 +224,6 @@ I posted a help query on FCC forum last night and low and behold this morning th
 
 ###R1D66
 I decided to make some improvements to existing `Reactjs` projects, starting with the calculator.  I refactored the components, separating them into different files. I also added some extra functionality.  Currently trying to add a square root function.  I realised there is a lot of duplicate code which I will refactor later.
+
+###R1D67
+Today spent a lot of time refactoring the components in my calculator and implementing the square root function.  I learned how to use unicode in javascript strings.  The code looks a lot cleaner now and the buttons on the calculator are more organised.  Also did some php on sololearn in preparation for learning wordpress.
