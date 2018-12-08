@@ -230,3 +230,6 @@ Today spent a lot of time refactoring the components in my calculator and implem
 
 ###R1D68
 Started the day with some `php`, doing a simple algorithm on _codewars_.  I found that `php` has many features in common with `javascript` including `filter` and `reduce` functions as well as a ternary operator.  The syntax differs in many aspects, for example parenthesis are often necessary where they would not be in `javascript`.  Callback functions are placed in quotations which I found quite counter intuitive.  The rest of the day was spent working on my calculator.  I found that a lot of the refactoring I did yesterday was unnecessary as it made styling the buttons with `CSS` grid much more difficult.  I had to put those nice neat components back into the `Inputs` component so all the buttons would be direct children of the container. 
+
+###R1D69
+Finished styling my calculator app.  Had some trouble on deployment as most browsers don't recognise look behinds in regular expressions.  Managed to fix the offending function with a work around.  Thank goodness I did all those algorithms!  Later had a bit of trouble with the footer but found a neat way to fix the footer at the bottom without overlapping. Went over some bootrap exersizes last night as I'm finding vanilla CSS too time consuming.  Also practised some php.
