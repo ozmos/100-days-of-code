@@ -233,3 +233,10 @@ Started the day with some `php`, doing a simple algorithm on _codewars_.  I foun
 
 ###R1D69
 Finished styling my calculator app.  Had some trouble on deployment as most browsers don't recognise look behinds in regular expressions.  Managed to fix the offending function with a work around.  Thank goodness I did all those algorithms!  Later had a bit of trouble with the footer but found a neat way to fix the footer at the bottom without overlapping. Went over some bootrap exersizes last night as I'm finding vanilla CSS too time consuming.  Also practised some php.
+
+###R1D70
+Did another simple php algorithm in the morning.  Discovered there was a trojan in my firefox cache so spent quite a bit of time googling and testing to get rid of it.  Still need to do another full scan to verify it's gone.
+Started a 4th kyu javascript algorithm but got very stuck.  Putting it aside for another time.
+
+###R1D71
+Took it pretty easy today.  Went through a few of the D3 exercizes on FCC and read some of the documentation.  Finished the sololearn php module.
