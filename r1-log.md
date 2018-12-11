@@ -240,3 +240,6 @@ Started a 4th kyu javascript algorithm but got very stuck.  Putting it aside for
 
 ###R1D71
 Took it pretty easy today.  Went through a few of the D3 exercizes on FCC and read some of the documentation.  Finished the sololearn php module.
+
+###R1D72
+Fixed a style bug in my pomodoro app, learned how to overlay a tint on a background image and applied it to my pomodoro app.
