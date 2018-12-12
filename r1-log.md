@@ -243,3 +243,7 @@ Took it pretty easy today.  Went through a few of the D3 exercizes on FCC and re
 
 ###R1D72
 Fixed a style bug in my pomodoro app, learned how to overlay a tint on a background image and applied it to my pomodoro app.
+
+###R1D73
+Contiued restyling my pomodoro app in the morning.  Added a separate bell for breaks and played around with fonts and margins.  In the evening went through some more D3 exercises taking notes and had another crack at the 4th kyu algorithm "recover secret string".
+
