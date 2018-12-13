@@ -232,18 +232,20 @@ Today spent a lot of time refactoring the components in my calculator and implem
 Started the day with some `php`, doing a simple algorithm on _codewars_.  I found that `php` has many features in common with `javascript` including `filter` and `reduce` functions as well as a ternary operator.  The syntax differs in many aspects, for example parenthesis are often necessary where they would not be in `javascript`.  Callback functions are placed in quotations which I found quite counter intuitive.  The rest of the day was spent working on my calculator.  I found that a lot of the refactoring I did yesterday was unnecessary as it made styling the buttons with `CSS` grid much more difficult.  I had to put those nice neat components back into the `Inputs` component so all the buttons would be direct children of the container. 
 
 ###R1D69
-Finished styling my calculator app.  Had some trouble on deployment as most browsers don't recognise look behinds in regular expressions.  Managed to fix the offending function with a work around.  Thank goodness I did all those algorithms!  Later had a bit of trouble with the footer but found a neat way to fix the footer at the bottom without overlapping. Went over some bootrap exersizes last night as I'm finding vanilla CSS too time consuming.  Also practised some php.
+Finished styling my calculator app.  Had some trouble on deployment as most browsers don't recognise look behinds in regular expressions.  Managed to fix the offending function with a work around.  Thank goodness I did all those algorithms!  Later had a bit of trouble with the footer but found a neat way to fix the footer at the bottom without overlapping. Went over some boostrap exercises last night as I'm finding vanilla CSS too time consuming.  Also practised some php.
 
 ###R1D70
 Did another simple php algorithm in the morning.  Discovered there was a trojan in my firefox cache so spent quite a bit of time googling and testing to get rid of it.  Still need to do another full scan to verify it's gone.
 Started a 4th kyu javascript algorithm but got very stuck.  Putting it aside for another time.
 
 ###R1D71
-Took it pretty easy today.  Went through a few of the D3 exercizes on FCC and read some of the documentation.  Finished the sololearn php module.
+Took it pretty easy today.  Went through a few of the D3 exercises on FCC and read some of the documentation.  Finished the sololearn php module.
 
 ###R1D72
 Fixed a style bug in my pomodoro app, learned how to overlay a tint on a background image and applied it to my pomodoro app.
 
 ###R1D73
-Contiued restyling my pomodoro app in the morning.  Added a separate bell for breaks and played around with fonts and margins.  In the evening went through some more D3 exercises taking notes and had another crack at the 4th kyu algorithm "recover secret string".
+Continued restyling my pomodoro app in the morning.  Added a separate bell for breaks and played around with fonts and margins.  In the evening went through some more D3 exercises taking notes and had another crack at the 4th kyu algorithm "recover secret string".
 
+###R1D74
+This morning had another crack at _recover secret string_.  I think I'm making progress with it.  In the afternoon and evening finished styling my pomodoro app.  
