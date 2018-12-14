@@ -249,3 +249,6 @@ Continued restyling my pomodoro app in the morning.  Added a separate bell for b
 
 ###R1D74
 This morning had another crack at _recover secret string_.  I think I'm making progress with it.  In the afternoon and evening finished styling my pomodoro app.  
+
+###R1D75
+More d3.js and php.
