@@ -252,3 +252,11 @@ This morning had another crack at _recover secret string_.  I think I'm making p
 
 ###R1D75
 More d3.js and php.
+
+###R1D76
+This morning I went through some more php exercises on w3schools. I am noticing quite a few similarities with javaScript:
+    -user defined functions look identical
+    -for, while and do while loops look identical
+    -switch statements also look identical
+    -they share some in built functions
+In the evening I worked on my portfolio, adding a new project and adding some media breaks for larger screens.
