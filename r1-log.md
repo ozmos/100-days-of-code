@@ -260,3 +260,9 @@ This morning I went through some more php exercises on w3schools. I am noticing 
     -switch statements also look identical
     -they share some in built functions
 In the evening I worked on my portfolio, adding a new project and adding some media breaks for larger screens.
+
+###R1D77
+Did some codewars puzzles in the morning then started a WordPress course in the afternoon.  Realised I now need to learn how to set up LAMP stack on my linux machine.
+
+###R1D78
+Went through a bit more of the D3.js tutorial on FCC in the morning.  Spent most of the afternoon/evening trying to get the LAMP stack set up.  I think I'm getting closer.
