@@ -266,3 +266,6 @@ Did some codewars puzzles in the morning then started a WordPress course in the 
 
 ###R1D78
 Went through a bit more of the D3.js tutorial on FCC in the morning.  Spent most of the afternoon/evening trying to get the LAMP stack set up.  I think I'm getting closer.
+
+###R1D79
+Successfully set up the LAMP stack and installed WordPress!!! The process was a little bit intense but also enjoyable. I'm tempted to take some linux courses and gain some sys-admin skills.  Also reviewed some php lessons and read a great article on medium.
