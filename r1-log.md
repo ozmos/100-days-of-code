@@ -269,3 +269,6 @@ Went through a bit more of the D3.js tutorial on FCC in the morning.  Spent most
 
 ###R1D79
 Successfully set up the LAMP stack and installed WordPress!!! The process was a little bit intense but also enjoyable. I'm tempted to take some linux courses and gain some sys-admin skills.  Also reviewed some php lessons and read a great article on medium.
+
+###R1D80
+Spent some time this morning trying to solve an algorithm in php.  Will try again tomorrow.  In the evening did a little bit of the wordpress course on udemy and found the commands for starting and stopping the server and mysql.  Also updated the media breaks on my official portfolio.  Contacted a possible lead for paid work.
