@@ -275,3 +275,9 @@ Spent some time this morning trying to solve an algorithm in php.  Will try agai
 
 ###R1D81
 This morning I think I went through some of the wordpress tutorial, although I can't clearly remember.  I think I spent too much time in the sun today!  This evening did an easy php algorithm and worked on _longestConsecutiveString_ which has been stumping me for a while. Leaned that I could run php scripts in the terminal with a simple command.
+
+###R1D82
+Did a bit of wordpress in the morning and reviewed php in the evening.  Updated portfolio at night.
+
+###R1D83
+Went through a few more lectures in my wordPress course.  Did a couple of algos on hackerRank.
