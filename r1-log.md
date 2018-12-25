@@ -285,4 +285,8 @@ Went through a few more lectures in my wordPress course.  Did a couple of algos 
 ###R1D84
 More wordpress lectures.  Read up a bit about the JAM stack and static site generators.  I've decided to keep learning wordpress as it will allow me to quickly set up client web sites and add dynamic features, as well as allowing the clients to edit content easily themselves.
 
+###R1D85
+Did some wordpress lectures and hackerRank algorithm in the morning. Spent the afternoon working on a client's website.
 
+###R1D86
+Today learned about php superglobals, array sorting and form handling.
