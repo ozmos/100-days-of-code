@@ -290,3 +290,6 @@ Did some wordpress lectures and hackerRank algorithm in the morning. Spent the a
 
 ###R1D86
 Today learned about php superglobals, array sorting and form handling.
+
+###R1D87
+Spent most of the day working on a client's website using WordPress.  Did some of the `D3.js` exercises in free code camp in the evening. 
