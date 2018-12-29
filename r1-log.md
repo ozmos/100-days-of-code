@@ -297,5 +297,8 @@ Spent most of the day working on a client's website using WordPress.  Did some o
 ###R1D88
 Finished the d3.js section of free code camp.  Looking forward to the projects.
 
-###R1D88
+###R1D89
 Very productive day.  Spent about half the day trying to get a contact form to send to an Office 365 email.  In the end set up SMTP with _SendGrid_.  Still waiting back from the client to see if the tests were successful.  Completed the JSON APIs and AJAX section of Free Code Camp.  Now can start the data visualisation projects.  Did a bit of my WordPress course and a bunch of _hackerRank_ algorithms.
+
+###R1D89
+Today mostly did wordpress tutorial.  Picked up some good tips about image resizing and how to structure an about page.
