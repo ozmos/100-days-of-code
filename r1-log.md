@@ -302,3 +302,9 @@ Very productive day.  Spent about half the day trying to get a contact form to s
 
 ###R1D89
 Today mostly did wordpress tutorial.  Picked up some good tips about image resizing and how to structure an about page.
+
+###R1D90
+Went through navigation and security in WordPress. Made a small start on the bar chart project in FCC.
+
+###R1D91
+Did some more tweaks to [antiques.com](https://antiques.com) including some custom html and CSS.  I'm glad I learned how to code before starting WordPress.  Went over some of my notes for `d3.js` and played around with the code in _Visual Studio_.  Figured out how to use modules without webpack or `node.js`.
