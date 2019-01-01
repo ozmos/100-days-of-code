@@ -308,3 +308,6 @@ Went through navigation and security in WordPress. Made a small start on the bar
 
 ###R1D91
 Did some more tweaks to [antiques.com](https://antiques.com) including some custom html and CSS.  I'm glad I learned how to code before starting WordPress.  Went over some of my notes for `d3.js` and played around with the code in _Visual Studio_.  Figured out how to use modules without webpack or `node.js`.
+
+###R1D92
+Continued udemy wordpress course and found some useful command line tools for compressing and resizing large numbers of images.
