@@ -314,3 +314,6 @@ Continued udemy wordpress course and found some useful command line tools for co
 
 ###R1D93
 Spent a lot of time optimizing images, looking for plugins and setting up photo galleries.  Made some progress with _forming a magic square_ challenge on hackerRank
+
+###R1D94
+This morning I solved the _forming a magic square_ challenge. Hooray.  Made some more tweaks to [antiques.com](https://antiques.com) and went through some more lectures in my wordpress course.
