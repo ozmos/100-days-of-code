@@ -317,3 +317,7 @@ Spent a lot of time optimizing images, looking for plugins and setting up photo 
 
 ###R1D94
 This morning I solved the _forming a magic square_ challenge. Hooray.  Made some more tweaks to [antiques.com](https://antiques.com) and went through some more lectures in my wordpress course.
+
+###R1D96
+Today went for a day trip to Mandurah/Pinjarra area with my wife.  It was good to get away from the house and computer for a while.  Still did an hour of code when we got back, going over `d3.js` notes.
+
