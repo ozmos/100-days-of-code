@@ -321,3 +321,5 @@ This morning I solved the _forming a magic square_ challenge. Hooray.  Made some
 ###R1D96
 Today went for a day trip to Mandurah/Pinjarra area with my wife.  It was good to get away from the house and computer for a while.  Still did an hour of code when we got back, going over `d3.js` notes.
 
+###R1D97
+Set up hosting for my business website and made a new email address.  Feels good to have a personalised business email.  Got a chart happening in my _bar chart_ project.
