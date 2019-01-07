@@ -300,22 +300,22 @@ Finished the d3.js section of free code camp.  Looking forward to the projects.
 ###R1D89
 Very productive day.  Spent about half the day trying to get a contact form to send to an Office 365 email.  In the end set up SMTP with _SendGrid_.  Still waiting back from the client to see if the tests were successful.  Completed the JSON APIs and AJAX section of Free Code Camp.  Now can start the data visualisation projects.  Did a bit of my WordPress course and a bunch of _hackerRank_ algorithms.
 
-###R1D89
+###R1D90
 Today mostly did wordpress tutorial.  Picked up some good tips about image resizing and how to structure an about page.
 
-###R1D90
+###R1D91
 Went through navigation and security in WordPress. Made a small start on the bar chart project in FCC.
 
-###R1D91
+###R1D92
 Did some more tweaks to [antiques.com](https://antiques.com) including some custom html and CSS.  I'm glad I learned how to code before starting WordPress.  Went over some of my notes for `d3.js` and played around with the code in _Visual Studio_.  Figured out how to use modules without webpack or `node.js`.
 
-###R1D92
+###R1D93
 Continued udemy wordpress course and found some useful command line tools for compressing and resizing large numbers of images.
 
-###R1D93
+###R1D94
 Spent a lot of time optimizing images, looking for plugins and setting up photo galleries.  Made some progress with _forming a magic square_ challenge on hackerRank
 
-###R1D94
+###R1D95
 This morning I solved the _forming a magic square_ challenge. Hooray.  Made some more tweaks to [antiques.com](https://antiques.com) and went through some more lectures in my wordpress course.
 
 ###R1D96
@@ -323,3 +323,9 @@ Today went for a day trip to Mandurah/Pinjarra area with my wife.  It was good t
 
 ###R1D97
 Set up hosting for my business website and made a new email address.  Feels good to have a personalised business email.  Got a chart happening in my _bar chart_ project.
+
+###R1D98
+Today I finished all lectures in my wordpress course on udemy. Just need to review notes and resources.  Learned about form validation and date functions in php.  Php has some really useful inbuilt date functions.
+
+###R1D99
+Spent the afternoon hardening security on my client website.  No actual coding, unless PHP myadmin counts.
