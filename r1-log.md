@@ -329,3 +329,6 @@ Today I finished all lectures in my wordpress course on udemy. Just need to revi
 
 ###R1D99
 Spent the afternoon hardening security on my client website.  No actual coding, unless PHP myadmin counts.
+
+###R1D100
+Well, I finished the 100 days of code challenge.  Yesterday I read some tutorials and today I made more tweaks to my client website and learnt about the date functions in PHP.
